@@ -39,7 +39,7 @@ const Footer = () => {
           <ul>
             <li>Media Center</li>
             <li>Privacy</li>
-            <li>Contact Use</li>
+            <li>Contact Us</li>
           </ul>
         </div>
       </div>
